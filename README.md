@@ -1,1 +1,1 @@
-# SAR.EnhancedOracleManagedDataClientDriver
+# SAR.NHibernate.EnhancedOracleManagedDataClientDriver
